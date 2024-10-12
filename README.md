@@ -1,0 +1,1 @@
+# com.YoStarJP.AzurLane.xapk
